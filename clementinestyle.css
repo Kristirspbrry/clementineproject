@@ -32,9 +32,16 @@
   color: #fff;
 }
 
+a:hover {
+  opacity: 0.7;
+  color: #FFA135;
+  text-decoration: none;
+}
+
 .nav-item a:hover {
   color: #FFA135;
 }
+
 
 /*paddings */
 
